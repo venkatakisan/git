@@ -6,3 +6,6 @@ Java Classc
 clear
  branch one created
  its named feature 1
+
+ branch two created
+  its named feature 2
